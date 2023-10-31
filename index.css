@@ -1,0 +1,8 @@
+/* 400.css */
+@font-face {
+    font-family: 'URW Classic Sans';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url(./files/URWClassicSans-Regular.woff2) format('woff2'), url(./files/URWClassicSans-Regular.ttf) format('ttf');
+}

@@ -1,0 +1,29 @@
+{
+  "name": "urw-classicsans",
+  "version": "1.0.0",
+  "main": "index.css",
+  "description": "URW Classic Sans fonts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./scripts/build.js"
+  },
+  "keywords": [
+    "font",
+    "urw",
+    "ttf",
+    "woff2",
+    "css",
+    "webfont"
+  ],
+  "author": "Kari Silvennoinen",
+  "license": "Aladdin",
+  "homepage": "https://github.com/kari/urw-classicsans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kari/urw-classicsans.git"
+  },
+  "devDependencies": {
+    "bent": "^7.3.12",
+    "ttf2woff2": "^5.0.0"
+  }
+}
